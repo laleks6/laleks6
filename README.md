@@ -26,10 +26,4 @@
 ![Jest](https://img.shields.io/badge/Jest-423f3f?style=flat&logo=jest)
 ![Vitest](https://img.shields.io/badge/Vitest-423f3f?style=flat&logo=vitest)
 
-### ⚙️ GitHub Analytics
 
-<p align="left">
-<a href="https://github.com/nastasyma">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laleks6&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laleks6&layout=compact&langs_count=8&theme=buefy"/>
-</a>
-</p>
