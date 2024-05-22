@@ -30,7 +30,7 @@
 
 <p align="left">
 <a href="https://github.com/nastasyma">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nastasyma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nastasyma&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laleks6&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laleks6&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
