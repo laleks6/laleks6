@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/laleks6/laleks6/blob/main/header.png" alr="header-name" borderRadius="5px">
+<img src="https://github.com/laleks6/laleks6/blob/main/header.png" alr="header-name" border-radius="5px">
 
 ### ✉ Contacts:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kojimagenius666) 
