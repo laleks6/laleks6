@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="https://github.com/laleks6/laleks6/blob/main/header.png" alr="header-name" >
 
 ### ✉ Contacts:
